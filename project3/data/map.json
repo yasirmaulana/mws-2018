@@ -1,0 +1,22 @@
+{
+    "places" : [
+      {
+        "location": [37.422213, -122.084111],
+        "title"   : "Googleplex",
+        "image"   : "images/1.jpg",
+        "review"  : "<p>The Googleplex is the corporate headquarters complex of Google and its parent company Alphabet Inc.. It is located at 1600 Amphitheatre Parkway in Mountain View, California, United States, near San Jose. The original complex, with 2,000,000 square feet (190,000 m2) of office space, is the company's second largest square footage assemblage of Google buildings, after Google's 111 Eighth Avenue building in New York City, which the company bought in 2010. Once the 1,100,000-square-foot (100,000 m2) Bay View addition was completed in 2015, the Googleplex became the largest collection of Google buildings with 3,100,000 square feet (290,000 m2) of space.</p>"
+      },
+      {
+        "location": [37.427466, -122.169558],
+        "title"   : "Stanford University",
+        "image"   : "images/2.jpg",
+        "review"  : "<p>Stanford University (officially Leland Stanford Junior University,[10] colloquially 'the Farm') is a private research university in Stanford, California. Stanford is known for its academic strength, wealth, proximity to Silicon Valley, and ranking as one of the world's top universities. The university was founded in 1885 by Leland and Jane Stanford in memory of their only child, Leland Stanford Jr., who had died of typhoid fever at age 15 the previous year. Stanford was a U.S. Senator and former Governor of California who made his fortune as a railroad tycoon. The school admitted its first students on October 1, 1891 as a coeducational and non-denominational institution.</p>"
+      },
+      {
+        "location": [37.426974, -122.080718],
+        "title"   : "Shoreline Amphitheatre",
+        "image"   : "images/3.jpg",
+        "review"  : "<p>Shoreline Amphitheatre is an outdoor amphitheater located in Mountain View, California, in the San Francisco Bay Area. The venue has a capacity of 22,500, with 6,500 reserved seats and 16,000 general admission on the lawn. When the parking lot is utilized for festival stages, the total capacity of the venue can reach 30,000. The amphitheatre was built in 1985-1986 by the city of Mountain View, in cooperation with local promoter Bill Graham, as part of the Shoreline Park project. Graham designed the amphitheatre to resemble The Grateful Dead's 'steal your face' logo.</p>"
+      }       
+    ]
+  }
